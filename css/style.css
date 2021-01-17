@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #f6f6f6;
+}
+h1{
+  font-size: 90px;
+  color: #66bfbf;
+  margin: 0;
+  font-family: cursive;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
+  font-size: 50px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+  line-height: 2;
+  font-size: 50px;
+}
+p{
+  color: white;
+  font-size: 20px;
+}
+ol{
+  color: white;
+  font-size: 10px;
+}
+
+.profile{
+  margin:50px;
+}
+.skill-row-first{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+  text-align: center;
+}
+.skill-row-second{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+  }
+
+.top-container{
+  margin: 0;
+  background-color: #a6f6f1;
+  position: relative;
+}
+.middle-container{
+  background-color: #1d2d50;
+}
+.bottom-container{
+  background-color: #1d2d50;
+}
+hr{
+  width:100px;
+  height:0px;
+  border:3px dotted grey;
+}
+.footer{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #f6f6f6;
+}
+///////////////////////////////////////////////////IMAGES//////////////////////////////////////////////
+.top-cloud{
+  position: absolute;
+  right:270px;
+  top:50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left:500px;
+}
+.sweta{
+  border-radius: 100%;
+  border: 5px solid #a3d2ca;
+}
+.html-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid black;
+}
+.css-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid white;
+}
+.javascript-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid black;
+}
+.c-img{
+  border-radius: 10%;
+  width:25%;
+}
+.cpp-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid white;
+}
+.java-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid black;
+}
+.python-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid white;
+}
+.android-img{
+  border-radius: 10%;
+  width:25%;
+    border: 10px solid black;
+}
+.computer-img{
+  border-radius: 100%;
+  width:25%;
+  text-align: center;
+  margin-left: 250px;
+  border: 10px solid white;
+}
+.create-img{
+  border-radius: 10%;
+  width:10%;
+}
+.code-img{
+  border-radius: 10%;
+  width:10%;
+}
+.cook-img{
+  border-radius: 10%;
+  width:10%;
+}
